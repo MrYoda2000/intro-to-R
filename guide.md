@@ -12,6 +12,7 @@
 3. Check what processor you have by clicking the Apple logo and "About This Mac"
 
     a. Do you have an Intel chip? Click on “R-4.1.0.pkg”
+    
     b. Do you have an M1 or other? Download from here https://www.rstudio.com/products/rstudio/download/preview/
     > This is a temporary solution for Mac's with the M1 chip. In the future you should download normally by clicking "R-4.1.0-arm64.pkg"
   
